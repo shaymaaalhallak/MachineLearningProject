@@ -1,34 +1,35 @@
-Smart City Health & Environmental Analytics
+## Smart City Health & Environmental Analytics
 
 A machine learning project focused on analyzing urban health and environmental data to generate insights that support smarter, healthier, and more sustainable cities. The project applies data preprocessing, feature engineering, predictive modeling, and visualization techniques to identify patterns and support data-driven decision-making.
 
-Project Overview
+## Project Overview
 
 Smart cities rely on data to improve quality of life, environmental sustainability, and public health. This project leverages machine learning techniques to analyze urban indicators and uncover relationships between environmental factors and health outcomes.
 
 The solution follows a complete machine learning workflow, including data cleaning, exploratory data analysis, feature engineering, model development, evaluation, and visualization.
 
-Objectives
+## Objectives
 Analyze urban health and environmental datasets.
 Identify key factors affecting public health outcomes.
 Build predictive machine learning models.
 Generate actionable insights through data visualization.
 Support data-driven decision-making aligned with sustainable city initiatives.
-Technologies Used
-Programming Language
+
+## Technologies Used
+# Programming Language
 Python
-Libraries
+# Libraries
 Pandas
 NumPy
 Scikit-learn
 Matplotlib
-Machine Learning Techniques
+# Machine Learning Techniques
 Regression Models
 Classification Models
-Feature Engineering
+# Feature Engineering
 Data Preprocessing
 Model Evaluation
-Project Workflow
+## Project Workflow
 1. Data Collection
 
 Collected and imported health and environmental datasets for analysis.
@@ -61,7 +62,7 @@ Evaluated model performance using appropriate metrics and compared results to id
 Created visual reports using Matplotlib to communicate insights and trends effectively.
 
 
-The project successfully demonstrated how machine learning can be applied to urban datasets to:
+## The project successfully demonstrated how machine learning can be applied to urban datasets to:
 
 Improve understanding of environmental and health relationships
 Generate predictive insights from complex data
